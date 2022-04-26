@@ -1,0 +1,59 @@
+body{
+  background-color:#445663;
+  margin:0;
+  padding:0;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+header{
+  background-color:rgb(74, 124, 77);
+  text-align:center;
+}
+img{
+  height:200px;
+  width:300px;
+  margin-top:20px;  
+}
+h1{
+  margin:10px auto;
+  background-color:white;
+  width:200px;
+  font-family:Berliner;
+}
+p{
+  font-size:20px;
+  color:red;
+}
+.servicos{
+  color:white;
+  text-align:center;
+}
+.servico-lista{
+  color:white;
+   
+}
+h3{
+  color:white;
+  text-align:center;
+  border-left:8px solid red;
+  width:150px;
+  background-color:rgb(105, 105, 236);
+  margin-left:328px;
+  
+}
+li{
+  list-style-type: none;
+  margin:4px;
+  text-align:center;
+}
+span{
+  text-align:center;
+  color:rgb(14, 13, 13);
+  background:yellow
+}
+
+
+
+
+
+
+
